@@ -1,2 +1,55 @@
-# loom-rsms
-A web-based Retail &amp; Service Management System for small businesses, integrating inventory, sales, service orders, e-wallet transactions, and analytics into one platform.
+LOOM
+
+Retail & Service Management System
+
+One business. One system.
+
+----------------------------------------------------
+
+Features
+
+✔ Inventory Management
+
+✔ POS Transactions
+
+✔ Service Orders
+
+✔ E-Wallet Ledger
+
+✔ Analytics
+
+✔ Reports
+
+----------------------------------------------------
+
+Tech Stack
+
+PHP
+
+MySQL
+
+HTML
+
+CSS
+
+JavaScript
+
+----------------------------------------------------
+
+Documentation
+
+Requirements
+
+Business Rules
+
+ERD
+
+Flowcharts
+
+Wireframes
+
+----------------------------------------------------
+
+Project Status
+
+Planning Phase
